@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=sid-dev7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<h1 align="center">Hello, I'm Siddharth 👋</h1>
+<h1 align="center">Hi, I'm Siddharth Chobhe 👋</h1>
 <h3 align="center">Project Management Associate | AWS Certified | Certified Scrum Master & Product Owner</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddharthchobhe"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
-  <a href="https://medium.com/@siddharthchobhe"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium&style=flat-square"></a>
-  <a href="mailto:siddharthchobhe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/siddharthchobhe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
+  <a href="https://medium.com/@siddharthchobhe" target="_blank"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-black?logo=medium&style=flat-square"></a>
+  <a href="mailto:siddharthchobhe@gmail.com"><img src="https://img.shields.io/badge/Email-siddharthchobhe%40gmail.com-red?logo=gmail&style=flat-square"></a>
 </p>
 
 ---
@@ -36,25 +36,23 @@ Currently focused on **Product Management** and **workflow automation**, I enjoy
 
 | Category | Tools |
 |-----------|--------|
-| **Cloud & DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/> AWS • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/> Terraform • GitHub Actions • GitLab CI |
-| **Programming & Scripting** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python • VBA • JSON • Postman |
-| **Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL • DynamoDB • MongoDB |
-| **PM & Collaboration** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30"/> Jira • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="30"/> MS Project • Slack • ServiceNow |
-| **Design & Visualization** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> Figma • Tableau • Power BI |
-| **Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git • GitHub • GitLab |
+| **Cloud & DevOps** | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" width="60"/> AWS • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/> Docker • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="30"/> Kubernetes • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30"/> Terraform • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub Actions • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/> GitLab CI |
+| **Programming & Scripting** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/> Python • VBA • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="30"/> JSON • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/> Postman |
+| **Database** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/> PostgreSQL • <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DynamoDB.png" width="50"/> DynamoDB • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30"/> MongoDB |
+| **PM & Collaboration** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="30"/> Jira • <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Project_%282019–present%29.svg/2346px-Microsoft_Project_%282019–present%29.svg.png" width="40"/> MS Project • Slack • ServiceNow |
+| **Design & Visualization** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30"/> Figma • <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="60"/> Tableau • <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="50"/> Power BI |
+| **Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/> Git • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/> GitHub • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30"/> GitLab |
 
 ---
 
 ### 🏅 Certifications
-
-<p align="left">
-  <img src="https://images.credly.com/size/110x110/images/2d178c5c-775d-4f11-9e09-9b94d8a86e3e/ScrumMaster.png" width="80" alt="CSM Badge"/> 
-  <img src="https://images.credly.com/size/110x110/images/46a2a1dc-6779-432b-9c19-2df9e9b6e8b0/Product_Owner.png" width="80" alt="CSPO Badge"/> 
-  <img src="https://images.credly.com/size/110x110/images/255d2b8a-7b70-4f90-9e24-8e843b8c8a8a/AWS_Certified_Cloud_Practitioner.png" width="80" alt="AWS Cloud Practitioner"/> 
-  <img src="https://img.shields.io/badge/Atlassian%20Jira%20Agile-Certified-blue?style=flat-square&logo=atlassian"/>  
-  <img src="https://img.shields.io/badge/Excel%20for%20Business-Advanced-green?style=flat-square&logo=microsoft-excel"/>  
-  <img src="https://img.shields.io/badge/Figma-UI%2FUX%20Design%20Essentials-red?style=flat-square&logo=figma"/>  
-</p>
+- Certified Scrum Master (CSM)  
+- Certified Scrum Product Owner (CSPO)  
+- AWS Certified Cloud Practitioner  
+- Agile with Atlassian Jira  
+- Agile Principles and Methodologies  
+- Excel Skills for Business (Advanced)  
+- Figma UI/UX Design Essentials  
 
 ---
 
@@ -89,7 +87,7 @@ Currently focused on **Product Management** and **workflow automation**, I enjoy
 I’m open to collaborating on **Product Management**, **Agile Projects**, or **Automation Initiatives**.  
 If you’re working on something meaningful, I’d love to connect and contribute.  
 
-📫 **Email:** siddharthchobhe@gmail.com  
+📫 **Email:** [siddharthchobhe@gmail.com](mailto:siddharthchobhe@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/siddharthchobhe](https://www.linkedin.com/in/siddharthchobhe)  
 📰 **Medium:** [@siddharthchobhe](https://medium.com/@siddharthchobhe)
 
