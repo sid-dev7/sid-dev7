@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=sid-dev7&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<h1 align="center">Hi, I'm Siddharth Chobhe 👋</h1>
+<h1 align="center">Hello, I'm Siddharth 👋</h1>
 <h3 align="center">Project Management Associate | AWS Certified | Certified Scrum Master & Product Owner</h3>
 
 <p align="center">
