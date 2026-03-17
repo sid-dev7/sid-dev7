@@ -46,6 +46,7 @@ Currently focused on **Product Management** and **workflow automation**, I enjoy
 ---
 
 ### 🏅 Certifications  
+- Project Management Professional(PMP)
 - Certified Scrum Master (CSM)  
 - Certified Scrum Product Owner (CSPO)  
 - AWS Certified Cloud Practitioner  
